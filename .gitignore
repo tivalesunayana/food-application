@@ -1,0 +1,8 @@
+pnpm-lock.yaml
+fireBaseCredentials.json
+/node_modules
+/build
+
+.DS_Store
+.env
+
